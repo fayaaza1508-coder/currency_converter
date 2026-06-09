@@ -1,0 +1,47 @@
+CURRENCY CONVERTER - MIND MAP
+
+CURRENCY CONVERTER
+|
+INPUT
+- Amount
+- From currency
+- To currency
+
+EXCHANGE RATE
+- USD base rate
+- API or manual rates
+- Live exchange rates
+
+CONVERSION
+- Formula calculation
+- Multiply rate
+
+OUTPUT
+- Converted amount
+- Currency symbol display
+
+TECHNOLOGIES
+Frontend:
+- HTML
+- CSS
+- JavaScript
+
+Backend:
+- Python Flask
+
+Data Source:
+- Exchange rate API or manual rates
+
+FEATURES
+- Multi-currency support
+- Real-time rates
+- Swap button
+- Error handling
+- Responsive UI
+
+FLOW
+- User enters amount
+- Selects currencies
+- System fetches rate
+- Calculates conversion
+- Shows result
